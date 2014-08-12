@@ -15,13 +15,12 @@ function myFunction(id) {
 
     for (var i = 0; i < fot.length; i++) {
 
-        if (fot[i].className == "selected_1") {
+        if (fot[i].className == "selected") {
 
-            fot[i].className= "selected";
+            fot[i].className= "";
 
-            //fot[i].className.substring= (0,-2);
         }
     }
 
-    document.getElementById(id).className += "_1";
+    document.getElementById(id).className = "selected";
 }

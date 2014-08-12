@@ -96,14 +96,14 @@ li {
 	margin-top: 0px;
 }
 
-.selected_1 {
+.selected {
 	background-color: #F0F0F0;
 	color: #33B99A;
 	border-bottom: 4px solid #33B99A;
 	font: 
 }
 
-#home .selected_1 {
+#home .selected {
 	background-image: url("http://i.imgur.com/ifQvvh5.png");
 	width: 34px;
 	height: 37px;
