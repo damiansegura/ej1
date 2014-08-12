@@ -182,7 +182,7 @@ li {
 
 }
 
-.lista2 {
+#lista2 li {
 	margin-top: 5px;
 	display: inline-block;
 	text-align: center;
@@ -194,7 +194,7 @@ li {
 	font-size: 24px;
 	color: #33B99A;
 }
-.lista2_1 {
+#lista2 li.selected {
 	background-color: #585858;
 	border-top: 4px solid #33B99A;
 	margin-top: 0;

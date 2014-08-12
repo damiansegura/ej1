@@ -3,11 +3,15 @@ function footbar(id) {
 
     for (var i = 0; i < fot.length; i++) {
 
-        fot[i].className= "lista2";
+        if (fot[i].className == "selected") {
+
+            fot[i].className= "";
+
+        }
 
     }
 
-    document.getElementById(id).className= "lista2_1";
+    document.getElementById(id).className = "selected";
 }
 
 function myFunction(id) {
