@@ -96,14 +96,14 @@ li {
 	margin-top: 0px;
 }
 
-.selected_1 {
+.selected {
 	background-color: #F0F0F0;
 	color: #33B99A;
 	border-bottom: 4px solid #33B99A;
 	font: 
 }
 
-#home .selected_1 {
+#home .selected {
 	background-image: url("http://i.imgur.com/ifQvvh5.png");
 	width: 34px;
 	height: 37px;
@@ -182,7 +182,7 @@ li {
 
 }
 
-.lista2 {
+#lista2 li {
 	margin-top: 5px;
 	display: inline-block;
 	text-align: center;
@@ -194,7 +194,7 @@ li {
 	font-size: 24px;
 	color: #33B99A;
 }
-.lista2_1 {
+#lista2 li.selected {
 	background-color: #585858;
 	border-top: 4px solid #33B99A;
 	margin-top: 0;
