@@ -1,0 +1,63 @@
+[33mcommit 595a6312176a9c656f77ded67594a9e9d3eeb317[m
+Merge: 9477006 3d0589c
+Author: damiansegura <dostandil@hotmail.com>
+Date:   Wed Aug 13 10:07:29 2014 -0300
+
+    Merge pull request #1 from tandiljuan/master
+    
+    Ej1 Update
+
+[33mcommit 3d0589c8a06438c4fa576a64e99e188e117f0b7a[m
+Author: Juan Manuel Lopez <tandiljuan@gmail.com>
+Date:   Tue Aug 12 21:09:34 2014 -0300
+
+    Move files to project's root path
+
+[33mcommit ed450bdf31bb025db538565d2ae464de85a65c3d[m
+Author: Juan Manuel Lopez <tandiljuan@gmail.com>
+Date:   Tue Aug 12 10:44:25 2014 -0300
+
+    Reuse menu logic
+
+[33mcommit 3b6c6bb6c81c4c1c659912319f3d7d58ad5b5ef3[m
+Author: Juan Manuel Lopez <tandiljuan@gmail.com>
+Date:   Tue Aug 12 09:49:19 2014 -0300
+
+    Use `selected` class when the item is selected (footer)
+
+[33mcommit f0aa0d138424be0711fd220cb93b99a3caa7b2e6[m
+Author: Juan Manuel Lopez <tandiljuan@gmail.com>
+Date:   Tue Aug 12 09:40:54 2014 -0300
+
+    Use `selected` class when the item is selected (header)
+
+[33mcommit 06a7c1e458a564c9020a13c0cde28e75a9a0584f[m
+Author: Juan Manuel Lopez <tandiljuan@gmail.com>
+Date:   Tue Aug 12 09:28:33 2014 -0300
+
+    Format, indent and add missing colons.
+
+[33mcommit 94770066c893c3491a44f3149e75c2bccacc0048[m
+Merge: 9513ff4 97f3243
+Author: Damián Segura <dostandil@hotmail.com>
+Date:   Thu Aug 7 20:04:22 2014 -0300
+
+    Merge branch 'master' of https://github.com/damiansegura/ej1
+
+[33mcommit 9513ff4fb251f57b4da0bd7845dda6e306a104ad[m
+Author: Damián Segura <dostandil@hotmail.com>
+Date:   Thu Aug 7 19:16:18 2014 -0300
+
+    Inicio
+
+[33mcommit 97f3243cc4c38acf0ab8c8e83aba279c6d7aba78[m
+Author: damiansegura <dostandil@hotmail.com>
+Date:   Thu Aug 7 18:45:57 2014 -0300
+
+    Delete readme.md
+
+[33mcommit 559578eef2f49f0332d29303ff13b8370f77338f[m
+Author: Damián Segura <dostandil@hotmail.com>
+Date:   Thu Aug 7 18:42:49 2014 -0300
+
+    First Commit
